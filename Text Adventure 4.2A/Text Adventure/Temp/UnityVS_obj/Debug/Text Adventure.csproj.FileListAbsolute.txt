@@ -1,0 +1,23 @@
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\Facebook.Unity.Settings.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\Mono.Cecil.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEditor.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.VR.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.xml
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEngine.VR.xml
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_bin\Debug\UnityEditor.xml
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_obj\Debug\Text Adventure.csprojResolveAssemblyReference.cache
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+J:\4+1 -- Advanced Diploma in IT\Introduction to Computer Game development\Text Adventure 4.2A\Text Adventure\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
