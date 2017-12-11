@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+    
 public class LevelManage : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
+    public static int Score1 = 0;
+    public static int Score2 = 0;
+    // Use this for initialization
+    void Start () {
 		
 	}
 	
