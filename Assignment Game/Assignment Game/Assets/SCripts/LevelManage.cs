@@ -10,7 +10,10 @@ public class LevelManage : MonoBehaviour {
     public static int Score2 = 0;
     // Use this for initialization
     void Start () {
-		
+        //if (SceneManager.GetSceneByName("Level_One"))
+        //{
+
+        //}
 	}
 	
 	// Update is called once per frame
