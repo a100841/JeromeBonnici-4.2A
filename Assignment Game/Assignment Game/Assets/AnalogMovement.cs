@@ -23,10 +23,10 @@ public class AnalogMovement : MonoBehaviour {
             Vector3 position = this.transform.position;
             position.y++;
             this.transform.position = position;
-            if (this.transform.position.y >= 3.46f)
+            if (this.transform.position.y >= 3.69f)
             {
                 //Vector3 Setpositiony = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y , gameObject.transform.position.z);
-                this.transform.position = new Vector3(transform.position.x, 3.46f, transform.position.z);
+                this.transform.position = new Vector3(transform.position.x, 3.69f, transform.position.z);
             }
 
         }
@@ -35,10 +35,10 @@ public class AnalogMovement : MonoBehaviour {
             Vector3 position = this.transform.position;
             position.y--;
             this.transform.position = position;
-            if (this.transform.position.y <= -3.46f)
+            if (this.transform.position.y <= -3.69f)
             {
                 //Vector3 Setpositiony = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y , gameObject.transform.position.z);
-                this.transform.position = new Vector3(transform.position.x, -3.46f, transform.position.z);
+                this.transform.position = new Vector3(transform.position.x, -3.69f, transform.position.z);
             }
         }
 
